@@ -1,7 +1,7 @@
 {
   "tasks": [
     {
-      "priorityLevel": "Medium",
+      "priorityLevel": "Low",
       "name": "Proposal PPT",
       "description": "-contact person\n-address\n-more option",
       "isComplete": 0,
@@ -10,16 +10,16 @@
     },
     {
       "priorityLevel": "Medium",
-      "name": "111",
-      "description": "222",
+      "name": "Contact AI Software Team",
+      "description": "To arrange meeting",
       "isComplete": 0,
       "createdAt": "2024-08-01T05:22:19.295Z",
       "id": "asdf"
     },
     {
-      "priorityLevel": "Medium",
-      "name": "111",
-      "description": "222",
+      "priorityLevel": "High",
+      "name": "Fix System Bug",
+      "description": "blank page error",
       "isComplete": 0,
       "createdAt": "2024-08-01T05:22:19.295Z",
       "id": "ffdb"
